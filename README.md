@@ -1,6 +1,6 @@
 # problem-solving-using-python
 
-## Inverting a Coin Triangle
+## 1) Inverting a Coin Triangle
 
 **Question:**
 Consider an equilateral triangle formed by closely packed pennies or other identical coins. Use iterative improvement method to design an algorithm to flip the triangle upside down in the minimum number of moves if on each move you can slide one coin at a time to its new position.
@@ -19,7 +19,7 @@ In this file, I've implemented an iterative algorithm that flips an equilateral 
 ![image](https://github.com/nouran555/problem-solving-using-python/assets/129008133/c2c7e310-2df6-4e72-a959-e8b354447a60)
 
 
-## Peg Solitaire
+## 2) Peg Solitaire
 
 **Question:**
 Consider the one-dimensional version of peg solitaire played on an array of n cells. Write an algorithm that removes all but one peg by a sequence of moves and finds all the locations of the empty cell in the initial setup for which the puzzle can be solved.
@@ -49,7 +49,7 @@ I've implemented two algorithms for solving one-dimensional peg solitaire using 
 
 
 
-## Knights Exchange
+## 3) Knights Exchange
 
 **Question:**
 There are six knights on a 3 × 4 chessboard. Design an iterative improvement algorithm to exchange the knights to get the specified position in the minimum number of moves, not allowing more than one knight on a square at any time.
@@ -72,7 +72,7 @@ I've implemented an algorithm using an iterative improvement combined with a gre
 ![image](https://github.com/nouran555/problem-solving-using-python/assets/129008133/e01dcf7a-3efc-411c-8801-700f7376e666)
 
 
-## Penny Machine
+## 4) Penny Machine
 
 **Question:**
 A “machine” consists of a row of boxes. Design an algorithm using Brute Force method to automate the machine and answer questions about its behavior.
@@ -108,7 +108,7 @@ Algorithm for penny redistribution: The algorithm begins by placing n pennies in
 ![image](https://github.com/nouran555/problem-solving-using-python/assets/129008133/1cc70756-b35a-4b65-b368-7c71fc44a7b8)
 
 
-## Security Switches
+## 5) Security Switches
 
 **Question:**
 There is a row of n security switches protecting a military installation entrance. Design a Divide and Conquer algorithm to turn off all the switches in the minimum number of moves.
@@ -131,7 +131,7 @@ Objective: The goal is to find the minimum number of moves required to turn off 
 
 
 
-## Tower of Hanoi
+## 6) Tower of Hanoi
 
 **Question:**
 Use divide and conquer method to transfer all the disks from one peg to another peg.
