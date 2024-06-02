@@ -136,6 +136,7 @@ Objective: The goal is to find the minimum number of moves required to turn off 
 **Question:**
 Use divide and conquer method to transfer all the disks from one peg to another peg.
 
+
 **Files:**
 - `tower_of_hanoi.py`: Contains the implementation of the Tower of Hanoi puzzle solver.
 
@@ -153,7 +154,6 @@ Objective: The goal is to determine if the divide and conquer algorithm can solv
 
 
 
-**Files:**
-- `Algorithmic_Problem_Solving_Report.pdf`: Contains the comprehensive report addressing each problem separately.
 
-Feel free to adjust the README to include any additional information or context specific to your project or repository!
+
+
