@@ -5,8 +5,15 @@
 **Description:**
 Consider an equilateral triangle formed by closely packed pennies or other identical coins. Use iterative improvement method to design an algorithm to flip the triangle upside down in the minimum number of moves if on each move you can slide one coin at a time to its new position.
 
+![image](https://github.com/nouran555/problem-solving-using-python/assets/129008133/bceeda6d-4baf-48f6-bc14-f6c1fee22371)
+
+
 **Files:**
 - `coin_triangle.py`: Contains the implementation of the algorithm to flip the coin triangle upside down.
+
+**TEST Example**
+![image](https://github.com/nouran555/problem-solving-using-python/assets/129008133/c2c7e310-2df6-4e72-a959-e8b354447a60)
+
 
 ## Peg Solitaire
 
